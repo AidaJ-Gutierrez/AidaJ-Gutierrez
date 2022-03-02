@@ -1,7 +1,7 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hi%20there%20👋🏻&text2=💖%20I'm%20Aida&width=800&height=400)](https://github.com/Akshay090/svg-banners)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AidaJ-Gutierrez&layout=compact&show_icons=true&theme=radical)](https://github.com/AidaJ-Gutierrez/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AidaJ-Gutierrez&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AidaJ-Gutierrez&layout=compact&show_icons=true&theme=radical)](https://github.com/AidaJ-Gutierrez/github-readme-stats)
+
 
 <!--
 **AidaJ-Gutierrez/AidaJ-Gutierrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
