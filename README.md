@@ -1,13 +1,24 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hi%20there%20👋🏻&text2=💖%20I'm%20Aida&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AidaJ-Gutierrez&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AidaJ-Gutierrez&layout=compact&show_icons=true&theme=radical)](https://github.com/AidaJ-Gutierrez/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AidaJ-Gutierrez&show_icons=true&theme=radical)](https://github.com/AidaJ-Gutierrez/github-readme-stats)
 
 <a href="https://github.com/AidaJ-Gutierrez/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidaJ-Gutierrez&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidaJ-Gutierrez&repo=tindog-project3&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/AidaJ-Gutierrez/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidaJ-Gutierrez&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidaJ-Gutierrez&repo=Diaz-Gutierrez-CoffeeProject/coffee-project-1&show_icons=true&theme=radical" />
 </a>
+<a href="https://github.com/AidaJ-Gutierrez/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidaJ-Gutierrez&repo=regulus-red-adlister/java-adlister&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/AidaJ-Gutierrez/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidaJ-Gutierrez&repo=gutierrez-martinez-api/MovieApp&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/AidaJ-Gutierrez/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidaJ-Gutierrez&repo=AidaJ-Gutierrez/codeup-web-exercises/blob/main/js/weather_map.js&show_icons=true&theme=radical" />
+</a>
+
+
 <!--
 **AidaJ-Gutierrez/AidaJ-Gutierrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
