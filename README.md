@@ -2,19 +2,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AidaJ-Gutierrez&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AidaJ-Gutierrez&show_icons=true&theme=radical)](https://github.com/AidaJ-Gutierrez/github-readme-stats)
 
-<a href="https://github.com/AidaJ-Gutierrez/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidaJ-Gutierrez&repo=tindog-project3&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/AidaJ-Gutierrez/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidaJ-Gutierrez&repo=Diaz-Gutierrez-CoffeeProject&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/AidaJ-Gutierrez/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidaJ-Gutierrez&repo=java-adlister&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/AidaJ-Gutierrez/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidaJ-Gutierrez&repo=gutierrez-martinez-api&show_icons=true&theme=radical" />
-</a>
-
+🔭 I’m currently working on capstone
+🌱 I’m currently learning Spring
+📫 How to reach me: aidaj.gutierrez@gmail.com
 
 
 <!--
