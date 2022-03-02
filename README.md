@@ -1,5 +1,4 @@
-
-![image](https://user-images.githubusercontent.com/20522661/156451082-177be45e-a146-4b01-b759-ea4f465f4c1f.png):fireworks:
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hi%20there%20👋🏻&text2=💖%20I'm%20Aida&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 
 <!--
