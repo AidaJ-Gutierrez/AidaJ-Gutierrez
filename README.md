@@ -1,4 +1,6 @@
 ### Hi there 👋
+![image](https://user-images.githubusercontent.com/20522661/156448469-68ba88ab-0358-4697-b372-1d5fa2f3d3e1.png)
+
 
 <!--
 **AidaJ-Gutierrez/AidaJ-Gutierrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
