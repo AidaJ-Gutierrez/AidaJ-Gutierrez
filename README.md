@@ -6,13 +6,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidaJ-Gutierrez&repo=tindog-project3&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/AidaJ-Gutierrez/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidaJ-Gutierrez&repo=coffee-project-1&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidaJ-Gutierrez&repo=Diaz-Gutierrez-CoffeeProject&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/AidaJ-Gutierrez/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidaJ-Gutierrez&repo=java-adlister&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/AidaJ-Gutierrez/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidaJ-Gutierrez&repo=MovieApp&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidaJ-Gutierrez&repo=gutierrez-martinez-api&show_icons=true&theme=radical" />
 </a>
 
 
