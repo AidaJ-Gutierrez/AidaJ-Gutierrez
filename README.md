@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hi%20there%20👋🏻&text2=💖%20I'm%20Aida&width=1500&height=300)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hi%20there%20👋🏻&text2=%20I'm%20Aida&width=1500&height=300)](https://github.com/Akshay090/svg-banners)
 
 <h4 align="center">Creative Software Developer with experience in human behavior and Networking. My professional background in Developmental Psychology helped me to develop strong problem-solving skills, that inspired the desire to learn how I can utilize technology to solve problems and improve user experience. Looking to leverage my soft and technical skills to find innovative ways to use technology to solve problems for my future employer.</h4>
 
