@@ -2,9 +2,9 @@
 
 <h4 align="center">Creative Software Developer with experience in human behavior and Networking. My professional background in Developmental Psychology helped me to develop strong problem-solving skills, that inspired the desire to learn how I can utilize technology to solve problems and improve user experience. Looking to leverage my soft and technical skills to find innovative ways to use technology to solve problems for my future employer.</h4>
 
-##### 🌱 I’m currently learning: **Spring and Java**
+##### 🌱 I’m currently learning: **NodeJs, ExpressJS, EJS**
 ##### 📫 How to reach me: **aidaj.gutierrez@gmail.com**
-##### 🔭 I’m currently working on: **Capstone project at Codeup**
+##### 🔭 I’m currently working on: **JavaScript projects**
 
 <br>
 <h3 align="center">Languages:</h3>
